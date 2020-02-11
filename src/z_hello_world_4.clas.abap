@@ -1,4 +1,4 @@
-CLASS z_hello_world_2 DEFINITION
+CLASS z_hello_world_4 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -10,5 +10,5 @@ ENDCLASS.
 
 
 
-CLASS z_hello_world_2 IMPLEMENTATION.
+CLASS z_hello_world_4 IMPLEMENTATION.
 ENDCLASS.

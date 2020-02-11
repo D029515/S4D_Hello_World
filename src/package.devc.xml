@@ -4,6 +4,8 @@
   <asx:values>
    <DEVC>
     <CTEXT>Local Hello World Package for ABAPGit</CTEXT>
+    <TPCLASS>X</TPCLASS>
+    <PACKKIND>5</PACKKIND>
    </DEVC>
   </asx:values>
  </asx:abap>
